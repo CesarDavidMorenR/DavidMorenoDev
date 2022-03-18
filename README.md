@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>:heart: We can connect in:</h2><br>
+<h2>📭 We can connect in:</h2><br>
 
 <div> 
  <a href="https://www.linkedin.com/in/cesar-david-moreno-ramirez-fullstack-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
