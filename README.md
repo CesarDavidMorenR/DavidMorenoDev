@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <h2>:heart: We can connect in:</h2><br>
 
 <div> 
-  
+ <a href="https://www.linkedin.com/in/cesar-david-moreno-ramirez-fullstack-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:cesardaviddev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cesar-david-moreno-ramirez-fullstack-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
 </div>
