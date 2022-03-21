@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ### Currently Learning:
  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="50px" /> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50px" /><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JS" width="50px" /> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50px" /> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50px" /> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="50px" /><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="VSCode" width="40px" />
 ---
-<br>
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMorenoDev&layout=compact)](https://github.com/DavidMorenoDev/github-readme-stats)
 ---
 
 <h2>📫 We can connect in:</h2><br>
