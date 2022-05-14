@@ -25,7 +25,31 @@ Here are some ideas to get you started:
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMorenoDev&layout=compact)](https://github.com/DavidMorenoDev/github-readme-stats)
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidMorenoDev&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
----
+ 
+ </br>
+
+- ‍💻 𝐉𝐚𝐯𝐚𝐬𝐜𝐫𝐢𝐩𝐭 Developer </br>
+   ![object](https://img.shields.io/badge/%7B-%20-brightgreen) </br>
+   ![Frontend](https://img.shields.io/badge/%20Frontend%20%3A-%5B%20-brightgreen)
+   ![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript),
+   ![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react),
+   ![redux](https://img.shields.io/badge/-redux%20%5D-brightgreen?logo=redux),</br>
+   ![Backend](https://img.shields.io/badge/Backend%20%3A-%5B-brightgreen) 
+   ![Node](https://img.shields.io/badge/-Node.js-brightgreen?logo=nodedotjs),
+   ![Express](https://img.shields.io/badge/-Express.js-brightgreen?logo=express),
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb),
+   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%5D-brightgreen?logo=postgresql),</br>
+   ![Testing](https://img.shields.io/badge/Testing%20%3A-%5B-brightgreen)
+   ![cypress](https://img.shields.io/badge/-Cypress-brightgreen?logo=cypress),
+   ![Jest](https://img.shields.io/badge/-Jest.js%20%5D-brightgreen?logo=jest) </br>
+   ![object](https://img.shields.io/badge/%20%20%20%7D-%20-brightgreen) </br>
+ 
+ <!--
+ 
+<div align="center">
+ ⚡ Practicando actualmente <img src ="https://img.shields.io/badge/TypeScript%20%20-%20-brightgreen?logo=typescript"> y  <img src ="https://img.shields.io/badge/GraphQL%20%20-%20-brightgreen?logo=graphql"> ⚡
+</div>
+-->
 
 <h2>📫 We can connect in:</h2><br>
 
