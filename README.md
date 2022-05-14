@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ---
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMorenoDev&layout=compact)](https://github.com/DavidMorenoDev/github-readme-stats)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DavidMorenoDev&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
 
 <h2>📫 We can connect in:</h2><br>
