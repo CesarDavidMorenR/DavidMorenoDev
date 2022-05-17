@@ -33,16 +33,20 @@ Here are some ideas to get you started:
    ![Frontend](https://img.shields.io/badge/%20Frontend%20%3A-%5B%20-brightgreen)
    ![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript),
    ![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react),
+  <!-- 
    ![redux](https://img.shields.io/badge/-redux%20%5D-brightgreen?logo=redux),</br>
+   
    ![Backend](https://img.shields.io/badge/Backend%20%3A-%5B-brightgreen) 
    ![Node](https://img.shields.io/badge/-Node.js-brightgreen?logo=nodedotjs),
    ![Express](https://img.shields.io/badge/-Express.js-brightgreen?logo=express),
    ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?logo=mongodb),
    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%5D-brightgreen?logo=postgresql),</br>
+  
    ![Testing](https://img.shields.io/badge/Testing%20%3A-%5B-brightgreen)
    ![cypress](https://img.shields.io/badge/-Cypress-brightgreen?logo=cypress),
    ![Jest](https://img.shields.io/badge/-Jest.js%20%5D-brightgreen?logo=jest) </br>
-   ![object](https://img.shields.io/badge/%20%20%20%7D-%20-brightgreen) </br>
+  -->
+  ![object](https://img.shields.io/badge/%20%20%20%7D-%20-brightgreen) </br>
  
  <!--
  
