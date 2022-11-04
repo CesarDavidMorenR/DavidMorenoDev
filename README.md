@@ -35,8 +35,11 @@ html, css, javascript, typescript, react and learning angular
    ![object](https://img.shields.io/badge/%7B-%20-brightgreen) </br>
    ![Frontend](https://img.shields.io/badge/%20Frontend%20%3A-%5B%20-brightgreen)
    ![javascript](https://img.shields.io/badge/-%20Javascript-brightgreen?logo=javascript),
-   ![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react),
+   ![react](https://img.shields.io/badge/%20-react.js-brightgreen?logo=react)
+   
+    <!-- 
    ![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)
+  -->
   <!-- 
    ![redux](https://img.shields.io/badge/-redux%20%5D-brightgreen?logo=redux),</br>
    
